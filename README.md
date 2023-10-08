@@ -14,7 +14,7 @@ I'm not just limited to frontend development. I've also dabbled in DBMS and have
 ## How to Reach Me
 
 - 📧 Feel free to reach out to me at abhishek.jha8387@gmail.com
-- 🌐 Visit my website: https://iamabhishek111.github.io/My-Portfolio_website/
+- 🌐 Visit my website: https://portfolio-abhishekjha.netlify.app/
 
 Whether it's a thrilling collaboration, exciting project opportunity, or just a friendly chat, I'm always open to new connections. Drop me a line and let's create something amazing together!
 
