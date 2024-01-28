@@ -1,7 +1,7 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)](mydevland.vercel.app)
 
-<h1 align="center">Hi 👋, I'm Abhsihek Kumar Jha</h1>
-<h3 align="center">A passionate Frontend Developer and Aspiring Data Scientist from India</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Kumar Jha</h1>
+<h3 align="center">A passionate Web Developer and Aspiring Data Scientist from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.web3canvas.com/wp-content/uploads/2018/12/animation-delight-users.gif" />
 
