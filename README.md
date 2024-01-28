@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>I thrive on turning complex problems into elegant solutions. My journey in the world of technology has been fueled by a love for innovation and a commitment to delivering top-notch software. <br>👯 I’m looking to collaborate on:<br>FullStack Projects<br>🌱 I’m currently learning:<br>Angular and ASP .Net Core<br>💬 Ask me about:<br>JavaScript , React , Data Science and DSA<br><br>
+🔭 <b>I’m currently working on</b>:<br>I thrive on turning complex problems into elegant solutions. My journey in the world of technology has been fueled by a love for innovation and a commitment to delivering top-notch software. <br>👯 <b>I’m looking to collaborate on</b>:<br>FullStack Projects<br>🌱 <b>I’m currently learning</b>:<br>Angular and ASP .Net Core<br>💬 <b>Ask me about</b>:<br>JavaScript , React , Data Science and DSA<br><br>
 
 
 ## 🌐 Socials:
