@@ -1,3 +1,12 @@
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)](mydevland.vercel.app)
+
+<h1 align="center">Hi 👋, I'm Abhsihek Kumar Jha</h1>
+<h3 align="center">A passionate Frontend Developer and Aspiring Data Scientist from India</h3>
+
+<img align="right" alt="Coding" width="400" src="https://www.web3canvas.com/wp-content/uploads/2018/12/animation-delight-users.gif" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jainansal&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek" /> </p>
+
 # 💫 About Me:
 🔭 <b>I’m currently working on</b>:<br>I thrive on turning complex problems into elegant solutions. My journey in the world of technology has been fueled by a love for innovation and a commitment to delivering top-notch software. <br>👯 <b>I’m looking to collaborate on</b>:<br>FullStack Projects<br>🌱 <b>I’m currently learning</b>:<br>Angular and ASP .Net Core<br>💬 <b>Ask me about</b>:<br>JavaScript , React , Data Science and DSA<br><br>
 
