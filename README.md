@@ -19,7 +19,7 @@
 # 📊 GitHub Stats:
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAmAbhishek111&theme=dark&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IAmAbhishek111&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmAbhishek111&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=IAmAbhishek111&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
