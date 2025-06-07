@@ -2,24 +2,20 @@
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Jha</h1>
-<h3 align="center">I am Web developer and Aspiring Data Scientist</h3>
+<h3 align="center">I am Full Stack Web developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IAmAbhishek111&label=Profile%20views&color=0e75b6&style=flat" alt="IAmAbhishek111" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IAmAbhishek111&theme=darkhub" alt="IAmAbhishek111" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Full stack Projects**
-- 🌱 I’m currently learning **Angular17 , ASP .NET Core**
+- 🌱 I’m currently learning **Angular , ASP .NET Core**
 - 💬 Ask me about **DSA , JavaScript , React**
 - 📫 How to reach me **abhishek.jha8387@gmail.com**
 - 👨‍💻Portfolio **https://portfolio-abhishekjha.netlify.app/**
 
-<div> <a href="https://www.linkedin.com/in/abhishek141100" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/IAmAbhishek111" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/_.abhishek._777" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:abhishek.jha8387@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhishek141100" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="abhishek141100" height="30" width="40" /></a><a href="https://www.leetcode.com/user4216mR/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="user4216mR/" height="30" width="40" /></a><a href="https://instagram.com/_.abhishek._777" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="_.abhishek._777" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/abhishek141100" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="abhishek141100" height="30" width="40" /></a><a href="https://www.leetcode.com/user4216mR/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="user4216mR/" height="30" width="40" /></a><a href="https://instagram.com/_.abhishek._1411" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="_.abhishek._777" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
